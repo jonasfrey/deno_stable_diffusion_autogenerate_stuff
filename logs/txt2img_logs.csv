@@ -1,0 +1,917 @@
+prompt,outdir,skip_grid,skip_save,ddim_steps,fixed_code,ddim_eta,n_iter,H,W,C,f,n_samples,n_rows,scale,device,from_file,seed,unet_bs,turbo,precision,format,sampler,ckpt,s_path_file
+Nikola tesla on a horse,outputs/txt2img-samples,False,False,50,False,0.0,2,512,512,4,8,5,0,7.5,cuda,,27,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hello World!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1085,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Many years ago, there was a woodcutter.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3614,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Many years ago, there was a woodcutter.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3614,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""this is a test from deno js""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1818,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The family did not have much money, but their home was always cozy and warm, and the children always had soup and bread to eat.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,11599,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They never went hungry.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2211,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Many years ago, there was a woodcutter.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3614,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+He lived deep in the forest with his wife.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3811,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She was a kind and gentle woman.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2868,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They had two children: Hansel and Gretel.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3715,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Family portrait,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1527,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The family did not have much money, but their home was always cozy and warm, and the children always had soup and bread to eat.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,11599,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They never went hungry.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2211,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"One year, there was a terribly cold winter, and Hansel and Gretel's mother became ill and died.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8569,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Family portrait, without the mother",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3431,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"In time the woodcutter married another woman, but she was not kind and gentle.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7271,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She was cruel and selfish.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2389,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"She wanted to be rich, and she wanted to eat fancy foods like roast beef, mashed potatoes, peas, corn, lemon cakes, and exotic fruits from sunny lands.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,13765,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She was angry that they could only afford soup and bread for every meal.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6681,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Soup and bread! Soup and bread! Every day! Soup and bread! I am so tired of soup and bread!"" she complained.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9378,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Family portrait with the new stepmother,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3849,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The stepmother was especially cruel to Hansel and Gretel because she believed they were the reason the family was so poor.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,11453,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""You children eat too much! It's your fault that we only have soup and bread!""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6962,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She wanted the children gone.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2692,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"One day, while the woodcutter was out cutting wood, the stepmother called Hansel and Gretel into the kitchen of their cottage.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,11781,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""There is not enough food to make soup for dinner"", said the stepmother.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6573,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""We will all go hungry tonight. Go into the forest and pick some mushrooms to make a mushroom soup. I know where the best mushrooms grow…""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,13189,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Stepmother ordering Hansel and Gretel to find mushrooms,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5319,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Then she gave them the most confusing directions she could think of.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6396,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She knew they would never be able to find their way home.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5213,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Walk north for two hours, turn left at the tall trees, walk east for twenty minutes, continue straight ahead, cross the stream, turn right onto the main road, go through the hole in the fence, walk under the bridge (watch out for the troll), and then three miles inside the forest, you will find some mushrooms under a tree. Go now so you can be back in time for dinner.""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,33984,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel and Gretel were scared.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2756,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"They knew the forest was deep and dark, and that it was easy to get lost.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6590,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Don't worry! I have a plan!"" whispered Hansel to Gretel. He went to the back of the house and filled his pockets with white pebbles from the garden.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,13312,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Then the two children started walking, following their stepmother’s directions.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8107,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Every few steps, Hansel dropped a little white pebble on the ground.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6310,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel and Gretel in the woods,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2773,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"They walked for hours, but they did not find any mushrooms.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5505,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""It’s almost night time. I’m scared,"" said Gretel, crying.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5935,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Don't worry. I can find the way home!"" said Hansel.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4403,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel waited until the moon was bright.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3768,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The moonlight shone through the tall trees and made his tiny white pebbles glow.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7544,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They followed the trail of pebbles all the way back home.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5240,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Their stepmother was furious.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2861,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She didn't expect the children to find their way home.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4949,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Little fools! Where are the mushrooms?"" the stepmother shouted.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5964,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Now we have nothing to eat! There will be no dinner for you tonight! Go straight to bed!""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7982,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The children went to bed hungry.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2977,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The next morning, after the woodcutter left for work, the stepmother woke the children up.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8489,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+“Wake up!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1196,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wake up you little fools!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2332,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Today is your father’s birthday.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3481,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I want to make him an apple pie for his birthday dinner.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5073,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Go into the forest and pick some apples.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3685,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+This time I will come too.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2316,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I know where we can find a big apple tree.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3701,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,34,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"She gave them a loaf of bread for their lunch, and then she hurried them out the house.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7870,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel did not have time to collect any pebbles.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4428,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+But clever Hansel had a plan.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2574,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+He did not eat his bread for lunch.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3098,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Instead, he tore it into tiny crumbs.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3408,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Every few steps, he dropped a crumb to mark the path.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4807,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel dropping breadcrumbs,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2696,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"They followed their stepmother down the path, around a corner, and through the forest.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8100,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Further! Further!"" said the stepmother.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3617,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They went deeper into the forest.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3113,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They turned left.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1605,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They turned right.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1720,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Further! Further!"" said the stepmother.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3617,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Finally they stopped, and the stepmother sat down to rest.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5474,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She pointed to a very dark part of the forest.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4205,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""The apple tree is over there!""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2712,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The children walked deeper into the forest, but they didn't see the apple tree.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7262,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Where?"" they called.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1803,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Just a little further!"" called the stepmother.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4313,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Hansel and Gretel walked deeper and deeper into the forest, but they still didn't see the apple tree.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9269,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Where?"" they called a second time.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3063,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Just a little further!"" replied the stepmother.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4441,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Her voice was very faint now.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2682,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Hansel and Gretel walked and walked, deeper and deeper.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5003,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+No apple tree.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1261,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Where?"" they called a third time.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2966,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+But there was no reply from their stepmother.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4288,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She was gone.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1154,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+“Oh no!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,979,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+We are lost!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1047,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+""" said Gretel, crying.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1900,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"“Don’t worry, I have a plan,"" said Hansel.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4430,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"He turned around to find the crumbs, but they were gone!",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5127,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The hungry birds had stolen every piece of bread!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4537,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel and Gretel huddling in some bushes at night,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4676,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""I'm scared,"" wept Gretel. ""And I'm cold, and hungry, and I want to go home!""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6279,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Don't worry. Everything will be alright,"" Hansel said, trying to be brave. But he was scared, too.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8762,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"That night, the children slept in some soft bushes to stay warm.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5955,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"When they woke up, the sun was shining, the birds were singing, and there was a sweet, delicious smell in the air.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,10367,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""I am so hungry,"" said Gretel.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2520,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""I think I smell cookies….""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2740,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Look!"" said Hansel, pointing.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2584,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""A house!""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,746,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+It was the strangest house they had ever seen.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4282,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The walls looked like yellow lemon cookies.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4089,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The windows looked like they were made of chocolate.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4872,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The roof looked like it was made of green and red candies.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel was starving.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1922,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+So he ran to the house and broke off a piece of the wall.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5012,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""This tastes like a lemon cookie!"" he said, surprised.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel and Gretel seeing the gingerbread cottage,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4558,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gretel grabbed a piece of a window and stuffed it in her mouth.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5713,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""This is chocolate!""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1739,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The children could not stop eating.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3294,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""We'll stay here forever,"" Hansel declared, munching on the apple pie porch.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6837,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They were just about to try a piece of the purple candy door when it quietly swung open.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8216,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Hello!"" said an old woman from behind the door.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4203,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Do you children like sweets? I have more inside the house! Come in! Come in! Don’t be afraid!""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8629,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The old woman looked kind and friendly, so the two children went inside.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6672,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Oh no!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,469,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Bad idea!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,731,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The old woman was not kind and friendly at all.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4272,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She was an evil witch!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1962,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"As soon as Hansel and Gretel were inside, she slammed the door and locked it.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6939,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The children were trapped.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2459,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The evil witch grabbing Hansel's arm,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3329,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The witch grabbed Hansel by his wrist.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3496,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""You're too thin!"" she said. ""I must fatten you up before I eat you!"" Then she threw Hansel into a cage and locked the door.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,10761,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She turned to Gretel.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1926,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""Foolish girl. You will do the household chores, then I'll eat you too!""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6393,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel began to cry.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1815,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+“Please don’t eat me!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2709,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+""" he begged.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,955,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+But Gretel stayed calm.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2115,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+“Don’t worry.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2079,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Now I have a plan!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1486,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+""" whispered Gretel.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1726,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Then Gretel snuck over to her brother, and she gave him a twig.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5684,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"“Tomorrow morning, the witch will see if you are fat enough to eat.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6610,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"When she comes, give her this twig instead of your finger,"" she ordered.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6554,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gretel giving a twig to Hansel in his cage,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3820,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Sure enough, in the morning, the witch hobbled over to Hansel and growled, “Stick your finger through the cage.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,10642,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I want to see if you are fat enough to eat!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3782,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,34,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel held out the twig.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2298,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""You're still too thin!"" she complained. “Come here, foolish girl, and give your brother more sweets to eat.""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,10229,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+This continued for an entire week.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3192,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Every day, the witch checked to see if Hansel was fat enough.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5504,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Every day, Hansel held out the twig.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3247,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Finally, the witch got tired of waiting.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3699,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"On the eighth day, she called to Gretel: ""Come here, foolish girl! Light the oven. Today I am going to eat roasted boy with carrots and gravy! Check if the oven is hot enough to roast your brother.""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,17710,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+But clever little Gretel had another plan.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3924,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She started to cry.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1750,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""But I am too stupid. How do I know if the oven is hot enough? Can you show me?"" she asked.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7827,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The witch muttered and grumbled: ""Useless child! I'll check the oven myself.""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6931,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The witch bent down to look at the bright orange flames, and quickly Gretel pushed her into the oven and slammed the door shut.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,11743,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+THUD!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,342,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+That was the end of the witch.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2679,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gretel pushing the witch into the oven,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3636,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gretel unlocked Hansel’s cage.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3231,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The children found a basket and filled it with cakes and cookies, pies, and candies.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7621,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Then they ran away as fast as they could.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3729,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They ran all night.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1724,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They ran through the forest.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2654,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They ran under the bridge.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2389,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They crawled through the hole in the fence.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3981,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They turned left.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1605,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They turned right.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1720,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Left.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,441,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Right.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,556,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Left.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,441,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Right.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,556,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Eventually they heard the sound of someone cutting wood in the distance.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6852,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+It was the woodcutter!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2074,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The children ran to their father and hugged him and kissed him.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5771,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+He cried and cried.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1660,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+But he was actually very happy.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2904,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"""My sweet, sweet children! Where were you?""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3834,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The children running to greet their father,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4027,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel and Gretel told the woodcutter the whole story.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5124,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"When he heard that their stepmother had abandoned them in the forest, he was furious.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7900,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+He ordered the stepmother to leave the house immediately and never return.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7048,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"That night, Hansel and Gretel and their father had a late birthday party.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6650,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"They ate all the sweets from the basket: cherry pie, chocolate cake, green and red candies, blue lollipops, and gingerbread cookies.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,12151,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Later that year, Hansel and Gretel were visiting the bakery in town when they saw an old woman begging for coins.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,10432,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+It was their stepmother!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2288,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+“Children!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1352,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Please help me!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1334,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I am starving!,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1254,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+""" she begged.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1070,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gretel thought for a moment.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2636,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+She went inside the bakery and bought a small loaf of bread and a small bowl of soup.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7695,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"“Here,"" Gretel said. “Soup and bread. Your favorite.""",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5445,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hansel and Gretel never saw their stepmother ever again.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5283,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They had two children: Hansel and Gretel.,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3715,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"The family did not have much money, but their home was always cozy and warm, and the children always had soup and bread to eat.",outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,11599,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a painting of a virus monster playing guitar,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,929260,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a painting of a virus monster playing guitar,testoutdir/,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,776985,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a painting of a virus monster playing guitar,testoutdir/,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,674370,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a painting of a virus monster playing guitar,testoutdir/,False,False,50,False,0.0,1,512,512,4,8,5,0,7.5,cuda,,733020,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Abomasum,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Abomasum,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Abomasum,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Abomasum,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Abomasum,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Absquatulate,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1260,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Adagio,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,581,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Alfresco,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,815,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Alcazar,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,702,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Amok,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,392,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Amphisbaena,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1113,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Antimacassar,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1239,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Atingle,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,708,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Bailiwick,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,911,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Bafflegab,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,874,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ballistic,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,919,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Bamboozle,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,923,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Bedlam,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,581,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Bugbear,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,696,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Bulbous,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,732,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Calamity,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,820,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Calliope,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,809,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Catamaran,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,904,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Convivial,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,939,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Cornucopia,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1043,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Crescendo,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,918,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Crestfallen,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1139,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Cryptozoology,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1428,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Demitasse,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,927,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Derecho,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,698,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Diphthong,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,933,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Doldrums,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,842,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Doohickey,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,927,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Dumfounded,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1035,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Earwig,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,607,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Elixir,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,621,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ephemeral,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,915,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ersatz,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,633,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Finagle,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,694,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Festooned,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,935,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Fez,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,293,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Flimflam,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,808,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Flummery,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,849,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Flyspeck,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,833,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Foofaraw,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Fracas,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,592,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Frangipani,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1023,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Fuddy-duddy,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1091,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Futz,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,425,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gadzooks,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,834,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gambit,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,596,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gazebo,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,600,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gizmo,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,518,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Glabella,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,788,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Gossamer,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,833,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Guffaw,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,608,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Guru,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,419,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Haboob,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,587,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Halcyon,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,718,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Haphazard,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,915,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Headlong,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,802,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Heyday,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,612,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hodgepodge,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1014,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hokum,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,516,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hooligan,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,817,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Hullabaloo,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1027,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Huzzah,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,634,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ignoramus,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,949,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Infinitesimal,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1356,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Interrobang,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1147,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Izzard,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,628,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Jabberwocky,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1139,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Jalopy,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,623,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Jitney,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,627,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Juggernaut,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1052,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Juxtaposition,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1409,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Kaput,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,517,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Kerfuffle,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,922,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Kerplunk,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,844,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Kismet,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,621,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Kumquat,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,744,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Kvetch,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,613,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Lackadaisical,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1302,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Lampoon,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,726,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Limburger,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,937,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Lollapalooza,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1258,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Lollygag,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,827,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Lugubrious,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1073,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Lummox,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,642,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Machinations,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1246,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Maelstrom,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,948,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Manifesto,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,934,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Miffed,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,587,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Moocher,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,717,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Mnemonic,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,822,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Mufti,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,517,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Mulligatawny,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1278,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Murmuration,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1187,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Muumuu,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,654,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Nabob,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,482,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Nagware,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,709,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Nainsook,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,834,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Nesh,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,398,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Noctambulist,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1269,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Nonplussed,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1067,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Noyade,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,608,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ogdoad,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,590,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Omphalos,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,835,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Operose,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,733,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Orrery,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,643,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Otalgia,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,705,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Oxymoron,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,875,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Pantagruelian,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1355,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Paraph,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,604,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Peely-wally,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1109,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Peterman,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,828,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Pilgarlic,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,919,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Pollex,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,628,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Pother,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,626,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Previse,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,734,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Pugnacious,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1054,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Quibble,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,708,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Quicksilver,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1170,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Quiddle,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,712,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Quinze,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,636,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Quirky,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,645,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Quixotic,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,854,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Raconteur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,947,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ragamuffin,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1024,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Razzia,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,625,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Razzmatazz,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1086,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rejigger,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,815,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rendezvous,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1077,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Resplendent,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1156,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rickrack,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,810,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ricochet,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,817,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Riffraff,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,806,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rigmarole,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,930,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Roundabout,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1059,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ruckus,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,637,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ruffian,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,715,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rugrat,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,629,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rumper,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,635,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rumpus,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,652,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Sabayon,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,717,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Sarmie,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,609,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Scofflaw,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Sassafras,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,935,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Saucier,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,716,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Saudade,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,695,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Scalawag,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,803,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Scatterbrain,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1250,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Schadenfreude,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1329,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Schlep,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,607,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Schmooze,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,840,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Scintillating,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1365,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Scrofulous,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1077,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Scrumdiddlyumptious,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2058,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Sesquipedalian,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1464,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Shenanigans,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1135,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Skedaddle,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,897,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Skirmish,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,842,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Skullduggery,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1282,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Slapdash,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,816,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Slipshod,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,838,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Smithereens,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1159,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Smorgasbord,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1155,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Snollygoster,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1301,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Sobriquet,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,958,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Sockdolager,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1134,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Solander,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,824,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Spaghettification,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1782,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Spellbind,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,925,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Splendiferous,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1379,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Spitchcock,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1035,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Spurrier,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,860,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Sternutatory,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1316,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Stiction,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,845,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Struthious,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1098,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Stylite,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,750,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Supercilious,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1287,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Superfluous,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1197,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Surreptitious,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1426,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Switcheroo,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1063,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Synchronicity,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1398,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Syzygy,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,671,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Taniwha,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,716,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Tappen,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,616,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Taradiddle,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1006,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Tchotchke,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,925,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Teepee,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,600,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Telekinesis,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1152,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Thingamabob,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1116,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Thingamajig,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1123,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Tidbit,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,608,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Tintinnabulation,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1699,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Toadstool,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,953,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Tomfoolery,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1072,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Topsy-turvy,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1174,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Turducken,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,949,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Typhoon,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,753,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ulu,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,310,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Umbriferous,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1171,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Umlaut,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,632,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Umpteen,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,734,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Uniped,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,613,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Usurp,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,543,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Uvula,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,525,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Vagabond,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,802,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Vamoose,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,730,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Velleity,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,846,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Verjuice,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,829,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Vertigo,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,736,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Verve,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,520,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Vicinal,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,710,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Virtuoso,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,875,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Vomitous,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,870,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Vuvuzela,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,866,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wabbit,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,601,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Waitron,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,740,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wallflower,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1055,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wayzgoose,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,968,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wanderlust,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1065,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Whatchamacallit,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1543,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Whirligig,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,934,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Whirlybird,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1056,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Whodunit,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,850,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Widget,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,612,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wigwam,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,620,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Willy-nilly,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1126,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Windbag,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,700,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wisecrack,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,924,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wittol,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,643,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Woebegone,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,923,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wonky,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,536,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wowser,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,647,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Woozy,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,552,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wunderkind,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1051,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Wuthering,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,957,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Xanthic,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,719,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Xenophobic,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1039,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Xyloid,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,633,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Xylophone,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,966,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ylem,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,407,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a watermelon in the shape of a dinosaur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3614,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a watermelon in the shape of a dinosaur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3614,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a watermelon in the shape of a dinosaur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,3614,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a watermelon in the shape of a dinosaur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,1234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a watermelon in the shape of a dinosaur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,1234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+something funny,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,1234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The grass is always greener on the other side of the fence,./js,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5362,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Don’t judge a book by its cover,./js,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3253,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Strike while the iron is hot,./js,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2635,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Too many cooks spoil the broth,./js,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2861,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The grass is always greener on the other side of the fence,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5362,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Don’t judge a book by its cover,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3253,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Strike while the iron is hot,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2635,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Too many cooks spoil the broth,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2861,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+You can’t have your cake and eat it too,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3969,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Many hands make light work,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2460,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"When in Rome, do as the Romans do",./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2867,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Don’t cross the bridge until you come to it,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4437,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Honesty is the best policy,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2501,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Practice makes perfect,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2149,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Where there’s a will, there’s a way",./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4030,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Look before you leap,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1895,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Beggars can’t be choosers,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2793,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Don’t make a mountain out of an anthill,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4034,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+An apple a day keeps the doctor away,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3286,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The early bird catches the worm,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2912,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Better late than never,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2103,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The cat is out of the bag,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2189,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Two wrongs don’t make a right,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3143,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Always put your best foot forward,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3220,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rome wasn’t built in a day,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2801,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+It’s better to be safe than sorry,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3492,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Don’t bite the hand that feeds you,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3557,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The squeaky wheel gets the grease,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3140,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Don’t bite off more than you can chew,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3811,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"You made your bed, now you have to lie in it",./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3936,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Actions speak louder than words,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3018,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+It takes two to tango,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1963,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Don’t count your chickens before they hatch,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4549,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+It’s no use crying over spilled milk,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3831,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Don’t put all your eggs in one basket,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3850,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+People in glass houses shouldn’t throw stones,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4841,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+A rolling stone gathers no moss,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2958,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+First things first,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1789,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Still waters run deep,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2033,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"If it ain’t* broke, don’t fix it",./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3632,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Curiosity killed the cat,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2329,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Learn to walk before you run,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2633,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Money doesn’t grow on trees,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3023,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+My hands are tied,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1554,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+It’s the tip of the iceberg,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2880,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+No news is good news,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1852,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Out of sight, out of mind",./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2253,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"If you scratch my back, I’ll scratch yours",./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4285,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Ignorance is bliss,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1743,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Easy come, easy go",./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1610,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The forbidden fruit is always the sweetest,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4058,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Every cloud has a silver lining,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2933,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+You can’t make an omelet without breaking a few eggs,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5265,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Close but no cigar,./create_from_a_s_saying,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1668,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+///,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,1234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a watermelon in the shape of a dinosaur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,1234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a watermelon in the shape of a dinosaur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,1234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a watermelon in the shape of a dinosaur,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,1234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a dinosaur in the shape of a watermelon,outputs/txt2img-samples,False,False,50,False,0.0,1,512,512,4,8,3,0,7.5,cuda,,1234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+e10adc3949ba59abbe56e057f20f883e,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,309,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+5f4dcc3b5aa765d61d8327deb882cf99,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,883,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+25d55ad283aa400af464c76d713c07ad,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,420,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+d8578edf8458ce06fbc5bb76a58c5ca4,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,684,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+25f9e794323b453885f5181f1b624d0b,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,477,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+827ccb0eea8a706c4c34a16891f84e7b,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,255,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+81dc9bdb52d04dc20036dbd8313ed055,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,202,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+96e79218965eb72c92a549dd5a330112,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,294,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+fcea920f7412b5da7be0cf42b8c93759,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,364,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+8621ffdbc5698829397d97767ac13db3,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,635,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+4297f44b13955235245b2497399d7a93,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,300,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+276f8db0b86edaa7fc805516c852c889,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,822,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+e99a18c428cb38d5f260853678922e03,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,444,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+37b4e2d82900d5e94b8da524fbeb33c0,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,851,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+d0763edaa9d9bd2a9516280e9044d885,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,659,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+0d107d09f5bbe40cade3de5c71e9e9b7,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,750,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+7d0710824ff191f6a0086a7e3891641e,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,333,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+3bf1114a986ba87ed28fc1b5884fc2f8,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,646,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+eb0a191797624dd3a48fa681d3061212,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,652,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+f379eaf3c831b04de153469d1bec345e,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,324,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+6eea9b7ef19179a06954edd0f6c05ceb,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1129,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+c8837b23ff8aaa8a2dde915473ce0991,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,300,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+bee783ee2974595487357e195ef38ca2,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,767,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+e807f1fcf82d132f9bb018ca6738a19f,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,525,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+0acf4539a14b3aa27deeb4cbdf6e989f,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,723,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+c33367701511b4f6020ec61ded352059,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,309,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+acc6f2779b808637d04c71e3d8360eeb,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,580,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+84d961568a65073a3bcf0eb216b2a576,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,875,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+1c63129ae9db9c60c3e8aa94d3e00495,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,785,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+dc0fa7df3d07904a09288bd2d2bb5f40,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,385,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+596a96cc7bf9108cd896f33c44aedc8a,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,774,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+93279e3308bdbbeed946fc965017f67a,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,297,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+670b14728ad9902aecba32e22fa4f6bd,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,288,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+76419c58730d9f35de7ac538c2fd6737,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,686,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+46f94c8de14fb36680850768ff1b7f2a,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,483,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+b36d331451a61eb2d76860e00c347396,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,643,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+5fcfd41e547a12215b173ff47fdd3739,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,848,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+d16d377af76c99d27093abc22244b342,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,638,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+1660fe5c81c4ce64a2611494c439e1ba,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,849,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+02c75fb22c75b23dc963c7eb91a062cc,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,776,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+a152e841783914146e4bcd4f39100686,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,621,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+6b1b36cbb04b41490bfc0ab2bfa26f86,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,662,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+d9b23ebbf9b431d009a20df52e515db5,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,661,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+da443a0ad979d5530df38ca1a74e4f80,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,639,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+ef4cdd3117793b9fd593d7488409626d,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,645,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+ec0e2603172c73a8b644bb9456c1ff6e,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,627,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+d914e3ecf6cc481114a3f534a5faf90b,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,641,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+f78f2477e949bee2d12a2c540fb6084f,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,642,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+0571749e2ac330a7455809c6b0e7af90,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,877,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+f25a2fc72690b780b2a14e140ef6a9e0,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,892,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+79cfdd0e92b120faadd7eb253eb800d0,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,635,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+08f90c1a417155361a5c4b8d297e0d78,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,194,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+bf779e0933a882808585d19455cd7937,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,728,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+684c851af59965b680086b7b4896ff98,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,654,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+ef6e65efc188e7dffd7335b646a85a21,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,652,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+df0349ce110b69f03b4def8012ae4970,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,643,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+ad92694923612da0600d7be498cc2e08,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,639,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+aa47f8215c6f30a0dcdb2a36a9f4168e,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,621,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+5badcaf789d3d1d09794d8f021f40f0e,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,887,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+ee89f7a7a0565ba56f8fb5794c0bd9fe,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,758,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+d0970714757783e6cf17b26fb8e2298f,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,300,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+9b306ab04ef5e25f9fb89c998a6aedab,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,633,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+0b9a54438fba2dc0d39be8f7c6c71a58,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,751,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+df53ca268240ca76670c8566ee54568a,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,879,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+2345f10bb948c5665ef91f6773b3e455,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,835,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+aae039d6aa239cfc121357a825210fa3,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,738,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+b3f952d5d9adea6f63bee9d4c6fceeaa,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,652,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+b59c67bf196a4758191e42f76670ceba,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,196,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+b427ebd39c845eb5417b7f7aaf1f9724,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,667,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+5b1b68a9abf4d2cd155c81a9225fd158,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,318,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+1bbd886460827015e5d605ed44252251,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,392,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+e04755387e5b5968ec213e41f70c1d46,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,300,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+d5aa1729c8c253e5d917a5264855eab8,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,738,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+f63f4fbc9f8c85d409f2f59f2b9e12d5,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,330,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+1a1dc91c907325c69271ddf0c944bc72,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,439,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+99754106633f94d350db34d548d6091a,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,425,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+1d3d37667a8d7eb02054c6afdf9e2e1c,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,618,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+5583413443164b56500def9a533c7c70,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,318,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+0b4e7a0e5fe84ad35fb5f95b9ceeac79,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,582,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+6f4ec514eee84cc58c8e610a0c87d7a2,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,636,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+8afa847f50a716e64932d995c8e7435a,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,871,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+d1133275ee2118be63a577af759fc052,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,650,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+fea0f1f6fede90bd0a925b4194deac11,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,621,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+6209804952225ab3d14348307b5a4a27,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,610,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+6b1628b016dff46e6fa35684be6acc96,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,665,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+b5c0b187fe309af0f4d35982fd961d7e,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,438,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+adff44c5102fca279fce7559abf66fee,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,646,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+7813d1590d28a7dd372ad54b5d29d033,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,222,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+fc63f87c08d505264caba37514cd0cfd,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,634,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+91cb315a6405bfcc30e2c4571ccfb8ce,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,725,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+5ef64bad8f9d7e0c85f821580e4d6629,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,630,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+e6a5ba0842a531163425d66839569a68,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,762,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+9df3b01c60df20d13843841ff0d4482c,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,626,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+1d10ca7f8fe2615bf72a249a7d34d6b9,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,752,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+6ebe76c9fb411be97b3b0d48b791a7c9,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,477,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+09f8316e29649a7f795f414ba3860fc0,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,625,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+229979fce5174c17d4645bf8752dae1e,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,660,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+5c7686c0284e0875b26de99c1008e998,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,762,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+7d8bc5f1a8d3787d06ef11c97d4655df,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,667,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+21b72c0b7adc5c7b4a50ffcb90d92dd6,./create_from_passwords_hashed,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,661,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Frankly, my dear, I don't give a damn.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3216,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I'm going to make him an offer he can't refuse.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4099,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"You don't understand! I coulda had class. I coulda been a contender. I could've been somebody, instead of a bum, which is what I am.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,11600,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Toto, I've got a feeling we're not in Kansas anymore.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4686,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Here's looking at you, kid.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2389,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Go ahead, make my day.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1861,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"All right, Mr. DeMille, I'm ready for my close-up.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4237,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+May the Force be with you.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2309,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Fasten your seatbelts. It's going to be a bumpy night.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4912,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+You talking to me?,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1659,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+What we've got here is failure to communicate.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4266,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I love the smell of napalm in the morning.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3819,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Love means never having to say you're sorry.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4127,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+The stuff that dreams are made of.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3080,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+E.T. phone home.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1318,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+They call me Mister Tibbs!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2321,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Rosebud.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,770,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Made it, Ma! Top of the world!",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2465,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"I'm as mad as hell, and I'm not going to take this anymore!",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5081,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Louis, I think this is the beginning of a beautiful friendship.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5814,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+A census taker once tried to test me. I ate his liver with some fava beans and a nice Chianti.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8394,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Bond. James Bond.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1426,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+There's no place like home.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2416,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I am big! It's the pictures that got small.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3763,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Show me the money!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1629,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Why don't you come up sometime and see me?,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3806,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I'm walking here! I'm walking here!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3006,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Play it, Sam. Play 'As Time Goes By.'",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2924,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+You can't handle the truth!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2447,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I want to be alone.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1642,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"After all, tomorrow is another day!",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3244,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Round up the usual suspects.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2688,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I'll have what she's having.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2469,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"You know how to whistle, don't you, Steve? You just put your lips together and blow.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7742,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+You're gonna need a bigger boat.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2863,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Badges? We ain't got no badges! We don't need no badges! I don't have to show you any stinking badges!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8890,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I'll be back.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1038,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Today, I consider myself the luckiest man on the face of the earth.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6083,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"If you build it, he will come.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2620,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Mama always said life was like a box of chocolates. You never know what you're gonna get.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8124,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+We rob banks.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1148,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Plastics.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,881,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+We'll always have Paris.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2173,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+I see dead people.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1575,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Stella! Hey, Stella!",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1694,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Oh, Jerry, don't let's ask for the moon. We have the stars.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5088,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Shane. Shane. Come back!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2000,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Well, nobody's perfect.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2108,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+It's alive! It's alive!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1906,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Houston, we have a problem.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2460,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"You've got to ask yourself one question: 'Do I feel lucky?' Well, do ya, punk?",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6843,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+You had me at ‘hello.’,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2760,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"One morning I shot an elephant in my pajamas. How he got in my pajamas, I don't know.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7496,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+There's no crying in baseball!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2729,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"La-dee-da, la-dee-da.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1678,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+A boy's best friend is his mother.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3048,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Greed, for lack of a better word, is good.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3660,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Keep your friends close, but your enemies closer.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4631,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"As God is my witness, I'll never be hungry again.",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4323,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Well, here's another nice mess you've gotten me into!",./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4835,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+Say hello to my little friend!,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2769,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+What a dump.,./create_from_movie_quotes,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1049,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,
+"Many years ago, there was a woodcutter.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3614,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_1.png
+He lived deep in the forest with his wife.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3811,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_187.png
+a,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2915,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3597,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8672,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_undefined.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8316,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_17575.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1285,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_64182.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2224,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_35392.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_5423.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5503,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_785.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8186,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_34400.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3804,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_66698.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9166,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_89193.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4852,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_18614.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2210,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_20388.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,45,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_59319.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7057,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_31315.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9644,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_55103.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2947,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_43064.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5579,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_89387.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6758,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_32862.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6999,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_95649.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3065,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_15258.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9921,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_88098.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1557,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_13427.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3120,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_25845.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7212,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_1338.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1018,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_61324.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6632,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_13572.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5378,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_6573.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7795,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_82540.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3031,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_15961.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2803,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_15455.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1537,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_66633.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7441,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_84869.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9883,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_98327.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8059,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_67751.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9657,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_31166.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1763,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_5473.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1947,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_18639.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9381,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_11908.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4009,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_32608.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3666,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_6217.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4138,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_57202.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6987,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_35356.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8312,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_5350.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7865,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_39572.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6339,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_66322.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4832,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_38049.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4969,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_55618.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7367,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_15952.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,444,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_34732.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2344,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_71174.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8644,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_72155.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7097,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_58596.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5038,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_77954.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3771,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_68420.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6392,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_29867.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7436,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_89470.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4204,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_46986.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,617,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_35708.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4531,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_42794.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,891,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_66599.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2614,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_62747.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1966,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_99463.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1047,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_52694.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,254,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_19164.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2527,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_99166.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6343,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_9562.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1144,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_94268.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1890,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_84859.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,327,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_5932.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2399,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_75422.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8914,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_20765.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3389,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_69673.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,756,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_4118.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7573,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_17043.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4121,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_19331.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5303,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_36050.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1730,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_36138.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6619,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_70106.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5749,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_24442.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9215,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_84825.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9061,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_98515.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5626,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_11355.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4800,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_41765.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4265,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_70614.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9121,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_19378.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2523,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_14833.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5703,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_74535.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6078,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_93629.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5096,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_46696.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9740,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_27497.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9693,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_31289.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7690,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_96609.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,878,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_61745.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2097,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_52530.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6966,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_24793.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,921,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_85222.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7207,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_87682.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4890,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_65162.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9169,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_7670.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,559,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_63425.png
+a crying dog with a beard,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,580,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./a crying dog with a beard_seed_14138.png
+"Then the two children started walking, following their stepmother""s directions. Every few steps, Hansel dropped a little white pebble on the ground.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,13976,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_180.png
+"""It""s almost night time.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2139,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_181.png
+"""It""s almost night time.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2139,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_181.png
+"I""m scared,"" said Gretel, crying.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2818,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_182.png
+"""Wake up! Wake up you little fools! Today is your father""s birthday.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6124,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_183.png
+"""",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,34,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_51.png
+"""Oh no! We are lost!"" said Gretel, crying.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3482,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_184.png
+"""Don""t worry, I have a plan,"" said Hansel.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3481,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_185.png
+"""A house!""",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,746,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_93.png
+"""Do you children like sweets? I have more inside the house! Come in! Come in! Don""t be afraid!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,8122,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_186.png
+"""Please don""t eat me!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1760,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_187.png
+"""Don""t worry.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1130,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_188.png
+"""Tomorrow morning, the witch will see if you are fat enough to eat. When she comes, give her this twig instead of your finger,"" she ordered.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,12720,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_189.png
+"Sure enough, in the morning, the witch hobbled over to Hansel and growled, ""Stick your finger through the cage. I want to see if you are fat enough to eat!""",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,14014,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_190.png
+"""You're still too thin!"" she complained. ""Come here, foolish girl, and give your brother more sweets to eat.""",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,9753,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_191.png
+"Gretel unlocked Hansel""s cage. The children found a basket and filled it with cakes and cookies, pies, and candies. Then they ran away as fast as they could.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,14172,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_192.png
+"""Children! Please help me! I am starving!"" she begged.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4598,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_193.png
+"""Here,"" Gretel said.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1638,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_194.png
+"""Soup and bread. Your favorite.""",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2823,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_hansel_und_gretel/n_o_files_info_n_id_195.png
+"Machine learning (ML) is a field of inquiry devoted to understanding and building methods that 'learn', that is, methods that leverage data to improve performance on some set of tasks.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,17004,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_196.png
+[1] It is seen as a part of artificial intelligence.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4679,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_197.png
+"Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,16502,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_198.png
+"[2] Machine learning algorithms are used in a wide variety of applications, such as in medicine, email filtering, speech recognition, and computer vision, where it is difficult or unfeasible to develop conventional algorithms to perform the needed tasks.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,23947,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_199.png
+[3],,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,235,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_200.png
+"A subset of machine learning is closely related to computational statistics, which focuses on making predictions using computers, but not all machine learning is statistical learning.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,17587,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_201.png
+"The study of mathematical optimization delivers methods, theory and application domains to the field of machine learning.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,11611,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_202.png
+"Data mining is a related field of study, focusing on exploratory data analysis through unsupervised learning.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,10470,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_203.png
+[5][6] Some implementations of machine learning use data and neural networks in a way that mimics the working of a biological brain.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,12291,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_204.png
+"[7][8] In its application across business problems, machine learning is also referred to as predictive analytics.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,10684,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_wikipedia_machine_learning/n_o_files_info_n_id_205.png
+Ylem.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,453,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_unusual_words/n_o_files_info_n_id_445.png
+Yokel.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,562,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_unusual_words/n_o_files_info_n_id_446.png
+Zaftig.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,659,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_unusual_words/n_o_files_info_n_id_447.png
+Zeitgeist.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,998,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_unusual_words/n_o_files_info_n_id_448.png
+Zephyr.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,688,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_unusual_words/n_o_files_info_n_id_449.png
+Zeppelin.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,885,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_unusual_words/n_o_files_info_n_id_450.png
+Ziggurat.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,891,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_unusual_words/n_o_files_info_n_id_451.png
+Zorro,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,540,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_unusual_words/n_o_files_info_n_id_452.png
+You don't understand!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1970,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_456.png
+You don't understand!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1970,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_456.png
+I coulda had class.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1682,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_457.png
+I coulda had class.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1682,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_457.png
+I coulda been a contender.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2348,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_458.png
+"I could've been somebody, instead of a bum, which is what I am.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5504,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_459.png
+"All right, Mr.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1168,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_463.png
+"DeMille, I'm ready for my close-up.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3037,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_464.png
+Fasten your seatbelts.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2149,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_466.png
+It's going to be a bumpy night.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2731,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_467.png
+E.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,115,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_473.png
+T.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,130,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_474.png
+phone home.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1041,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_475.png
+"Made it, Ma!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,911,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_478.png
+Top of the world!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1522,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_479.png
+A census taker once tried to test me.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3369,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_482.png
+I ate his liver with some fava beans and a nice Chianti.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4993,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_483.png
+Bond.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,433,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_484.png
+James Bond.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,961,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_485.png
+I am big!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,682,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_487.png
+It's the pictures that got small.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3049,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_488.png
+I'm walking here!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1487,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_491.png
+"Play it, Sam.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1070,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_492.png
+Play 'As Time Goes By.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1783,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_493.png
+' You can't handle the truth!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2518,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_494.png
+"You know how to whistle, don't you, Steve?",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3812,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_499.png
+You just put your lips together and blow.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3898,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_500.png
+Badges?,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,645,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_502.png
+We ain't got no badges!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1981,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_503.png
+We don't need no badges!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2072,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_504.png
+I don't have to show you any stinking badges!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4096,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_505.png
+Mama always said life was like a box of chocolates.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4656,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_509.png
+You never know what you're gonna get.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3436,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_510.png
+Stella!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,646,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_515.png
+"Hey, Stella!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1016,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_516.png
+"Oh, Jerry, don't let's ask for the moon.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3428,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_517.png
+We have the stars.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1628,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_518.png
+Shane.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,541,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_519.png
+Come back!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,854,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_520.png
+It's alive!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,937,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_522.png
+You've got to ask yourself one question: 'Do I feel lucky?,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5246,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_524.png
+"' Well, do ya, punk?",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1597,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_525.png
+"You had me at ""hello."" One morning I shot an elephant in my pajamas.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,5954,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_526.png
+"How he got in my pajamas, I don't know.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3357,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_527.png
+Mrs.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,352,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_537.png
+"Robinson, you're trying to seduce me.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3434,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_538.png
+Aren't you?,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,989,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_539.png
+"Gentlemen, you can't fight in here!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3139,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_540.png
+This is the War Room!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1821,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_541.png
+"Elementary, my dear Watson.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2510,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_542.png
+"Get your stinking paws off me, you damned dirty ape.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4800,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_543.png
+"Of all the gin joints in all the towns in all the world, she walks into mine.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6952,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_544.png
+Here's Johnny!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1237,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_545.png
+They're here!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1149,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_546.png
+Is it safe?,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,951,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_547.png
+"Wait a minute, wait a minute.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2602,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_548.png
+You ain't heard nothin' yet!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2494,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_549.png
+"No wire hangers, ever!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1979,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_550.png
+"Mother of mercy, is this the end of Rico?",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3645,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_551.png
+"Forget it, Jake, it's Chinatown.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2791,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_552.png
+I have always depended on the kindness of strangers.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4880,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_553.png
+"Hasta la vista, baby.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1853,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_554.png
+Soylent Green is people!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2241,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_555.png
+"Open the pod bay doors, HAL.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2376,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_556.png
+Striker: Surely you can't be serious.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3435,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_557.png
+"Yo, Adrian!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,900,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_558.png
+"Hello, gorgeous.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1497,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_559.png
+Toga!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,428,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_560.png
+Listen to them.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1390,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_561.png
+Children of the night.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2023,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_562.png
+What music they make.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1947,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_563.png
+"Oh, no, it wasn't the airplanes.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2795,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_564.png
+It was Beauty killed the Beast.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2789,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_565.png
+My precious.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1150,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_566.png
+Attica!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,631,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_567.png
+"Sawyer, you're going out a youngster, but you've got to come back a star!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,6611,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_568.png
+"Listen to me, mister.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1906,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_569.png
+You're my knight in shining armor.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3164,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_570.png
+Don't you forget it.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1803,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_571.png
+You're  Tell 'em to go out there with all they got and win just one for the Gipper.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,7373,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_572.png
+A martini.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,899,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_573.png
+"Shaken, not stirred.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1858,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_574.png
+Who's on first.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1339,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_575.png
+Cinderella story.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1666,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_576.png
+Outta nowhere.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1363,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_577.png
+"A former greenskeeper, now, about to become the  Life is a banquet, and most poor suckers are starving to death!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,10209,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_578.png
+I feel the need - the need for speed!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,3141,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_579.png
+Carpe diem.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,984,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_580.png
+"Seize the day, boys.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1782,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_581.png
+Make your lives extraordinary.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2954,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_582.png
+Snap out of it!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1309,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_583.png
+My mother thanks you.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1993,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_584.png
+My father thanks you.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1972,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_585.png
+My sister thanks you.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2004,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_586.png
+And I thank you.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1373,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_587.png
+Nobody puts Baby in a corner.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2628,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_588.png
+"I'll get you, my pretty, and your little dog, too!",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,4436,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_589.png
+I'm king of the world!,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1893,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_590.png
+A million dollars isn't cool.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,2662,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_591.png
+You know what's cool?,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1942,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_592.png
+A billion dollars.,,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,1673,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,/home/manjarouser/code/stable-diffusion/o_story_movie_quotes/n_o_files_info_n_id_593.png
+"Jellyfish and sea jellies are the informal common names given to the medusa-phase of certain gelatinous members of the subphylum Medusozoa, a major part of the phylum Cnidaria. Jellyfish are mainly free-swimming marine animals with umbrella-shaped bells and trailing tentacles, although a few are anchored to the seabed by stalks rather than being mobile. The bell can pulsate to provide propulsion for highly efficient locomotion. The tentacles are armed with stinging cells and may be used to capture prey and defend against predators. Jellyfish have a complex life cycle; the medusa is normally the sexual phase, which produces planula larvae that disperse widely and enter a sedentary polyp phase before reaching sexual maturity.",,False,False,50,False,0.0,1,512,512,4,8,1,0,7.5,cuda,,12341234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./jellyfish.png
+"Jellyfish and sea jellies are the informal common names given to the medusa-phase of certain gelatinous members of the subphylum Medusozoa, a major part of the phylum Cnidaria. Jellyfish are mainly free-swimming marine animals with umbrella-shaped bells and trailing tentacles, although a few are anchored to the seabed by stalks rather than being mobile. The bell can pulsate to provide propulsion for highly efficient locomotion. The tentacles are armed with stinging cells and may be used to capture prey and defend against predators. Jellyfish have a complex life cycle; the medusa is normally the sexual phase, which produces planula larvae that disperse widely and enter a sedentary polyp phase before reaching sexual maturity.",,False,False,50,False,0.0,1,1024,512,4,8,1,0,7.5,cuda,,14321234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./jellyfish.png
+"Jellyfish and sea jellies are the informal common names given to the medusa-phase of certain gelatinous members of the subphylum Medusozoa, a major part of the phylum Cnidaria. Jellyfish are mainly free-swimming marine animals with umbrella-shaped bells and trailing tentacles, although a few are anchored to the seabed by stalks rather than being mobile. The bell can pulsate to provide propulsion for highly efficient locomotion. The tentacles are armed with stinging cells and may be used to capture prey and defend against predators. Jellyfish have a complex life cycle; the medusa is normally the sexual phase, which produces planula larvae that disperse widely and enter a sedentary polyp phase before reaching sexual maturity.",,False,False,50,False,0.0,1,1024,1024,4,8,1,0,7.5,cuda,,21234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./jellyfish.png
+Mr. Blue Sky,,False,False,50,False,0.0,1,1024,1024,4,8,1,0,7.5,cuda,,21234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./jellyfish.png
+"The North America Nebula, an emission nebula",,False,False,50,False,0.0,1,1024,1024,4,8,1,0,7.5,cuda,,21234,1,False,autocast,png,plms,models/ldm/stable-diffusion-v1/model.ckpt,./north_amrica_nebula.png

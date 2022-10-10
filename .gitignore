@@ -1,0 +1,6 @@
+models_new/
+models/
+gitignored_data/
+__pycache__/
+models/
+outputs/

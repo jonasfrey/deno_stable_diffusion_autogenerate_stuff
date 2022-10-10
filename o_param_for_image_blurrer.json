@@ -1,0 +1,18 @@
+{
+    "o_image_output": {
+        "n_scale_x": 1920, 
+        "n_scale_y": 1080,
+        "n_float_blur_sigma": 100.0
+    },
+    "o_image_input":{
+        "s_path_file": "./../../default.png"
+    },
+    "a_o_text": [
+        {
+            "s": "Nice to have!",
+            "a_n_f64__color_rgb": [0,0,0],
+            "a_n_f64__bgcolor_rgba": [0.1,0.1,0.1,0.2],
+            "n_padding_text_to_background": 20
+        }
+    ]
+}
